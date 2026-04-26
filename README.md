@@ -24,7 +24,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=26&duration=1&pause=1&color=FFF000&repeat=false&width=435&lines=%F0%9F%93%82+Bases+de+Datos+%26+Cloud)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" /></a>
 </p>
 
