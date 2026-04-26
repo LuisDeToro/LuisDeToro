@@ -26,7 +26,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
   <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=28&duration=1&pause=1&color=8E9AAF&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Herramientas+%26+CMS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=28&duration=1&pause=1&color=B0B9C8&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Herramientas+%26+CMS)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WP" height="45" /></a>
   <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" /></a>
