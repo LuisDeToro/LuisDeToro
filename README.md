@@ -1,9 +1,3 @@
-<div style="display:none">
-👋 Hola, soy Luis De Toro
-Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de Córdoba.
-</div>
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=32&duration=3000&pause=500&color=E4BE43&multiline=true&width=500&height=90&lines=%C2%A1Hola%2C+soy+Luis+De+Toro!)](https://git.io/typing-svg)
 
 Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de Córdoba.
