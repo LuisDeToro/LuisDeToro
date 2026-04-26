@@ -28,7 +28,25 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=26&duration=1&pause=1&color=00F5FF&repeat=false&width=435&lines=%F0%9F%A4%99+Backend" alt="Backend" />
 </p>
 
-<p align="center"><a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a><a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40" width="40" /></a></p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.php.net/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
