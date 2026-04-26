@@ -1,5 +1,5 @@
 <div style="display:none">
-#👋 Hola, soy Luis De Toro
+👋 Hola, soy Luis De Toro
 Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de Córdoba.
 </div>
 
