@@ -26,7 +26,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 <h3 align="center">🗄️ Base de Datos & Cloud</h3>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" /></a>
 </p>
 
