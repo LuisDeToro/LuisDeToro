@@ -2,21 +2,6 @@
 
 Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de Córdoba.
 
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/LuisDeToro" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/in/luis-de-toro-pedrajas" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 55px;" />
-</a>
-<a href="https://instagram.com/luisdtp.dev" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
 ## COntact
 <p align="left">
 <a href="https://github.com/https://github.com/LuisDeToro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/LuisDeToro" height="30" width="40" /></a>
