@@ -43,14 +43,6 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 <br>
 
 
-
-
-<br>
-<br>
-<br>
-<br>
-
-
 # <p align="center">📫 Puedes contactarme en</p>
 <p align="center">
   <a href="mailto:luisdtp.dev@gmail.com">
