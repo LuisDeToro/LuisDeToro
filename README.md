@@ -5,7 +5,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 
 # <p align="center">Tecnologías y herramientas que he usado</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=28&duration=1&pause=1&color=FF5F1F&repeat=false&width=435&lines=%F0%9F%8E%A8+Frontend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=28&duration=1&pause=1&color=FF4D00&repeat=false&width=435&lines=%F0%9F%8E%A8+Frontend)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>
