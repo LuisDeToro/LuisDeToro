@@ -15,11 +15,25 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=28&duration=1&pause=1&color=00F5FF&repeat=false&width=435&lines=%E2%9A%99%EF%B8%8F+Backend)](https://git.io/typing-svg)
-<p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40" width="45"/></a>
-</p>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://www.php.net/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="45" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40" width="45"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=26&duration=1&pause=1&color=FFF000&repeat=false&width=435&lines=%F0%9F%93%82+Bases+de+Datos+%26+Cloud)](https://git.io/typing-svg)
 <p align="center">
