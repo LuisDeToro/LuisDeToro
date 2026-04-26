@@ -19,7 +19,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
   <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a><a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="45" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40" width="40"/></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=28&duration=1&pause=1&color=39FF14&repeat=false&width=435&lines=⛃++Base+de+Datos+%26+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=28&duration=1&pause=1&color=39FF14&repeat=false&width=435&lines=⛃+Base+de+Datos+%26+Cloud)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" /></a>
