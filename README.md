@@ -23,10 +23,9 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=26&duration=1&pause=1&color=FFF000&repeat=false&width=435&lines=%F0%9F%93%82+Bases+de+Datos+%26+Cloud)](https://git.io/typing-svg)
 <p align="center">
-<p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="45" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45" /></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=28&duration=1&pause=1&color=B0B9C8&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Herramientas+%26+CMS)](https://git.io/typing-svg)
