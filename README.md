@@ -38,31 +38,33 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 </p>
 
 
-
-
-
-
-
-
-
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
 
 
 # <p align="center">📫 Puedes contactarme en</p>
+
+<p align="center">
+  <a href="mailto:luisdtp.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">
+  </a> 
+  <a href="https://linkedin.com/in/luis-de-toro-pedrajas">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="https://instagram.com/luisdtp.dev">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+# <p align="center">📫 Puedes contactarme en</p>
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisdtp.dev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/luis-de-toro-pedrajas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luisdtp.dev) 
