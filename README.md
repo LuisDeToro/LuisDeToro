@@ -3,6 +3,8 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=32&duration=3000&pause=500&color=E4BE43&multiline=true&width=500&height=90&lines=%C2%A1Hola%2C+soy+Luis+De+Toro!)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=800&size=31&duration=3000&pause=1000&color=F7F7F7&width=2200&lines=Actualmente+estudiante+de+Desarrollo+de+aplicaciones+web+en+IES+Gran+Capit%C3%A1n+de+C%C3%B3rdoba.)](https://git.io/typing-svg)
+
 ## 📫 Puedes contactarme en
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisdtp.dev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/luis-de-toro-pedrajas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luisdtp.dev) 
 
