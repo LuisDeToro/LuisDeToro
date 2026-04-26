@@ -40,7 +40,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 <p align="center">
   <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WP" height="45" /></a>
   <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="45" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="46" /></a>
 </p>
 
 
