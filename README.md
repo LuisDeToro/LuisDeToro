@@ -7,7 +7,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 
 # Mis Tecnologías y Herramientas 🚀
 
-### 🎨 Frontend & Estilos
+<h3 align="center">🎨 Frontend & Estilos</h3>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>
@@ -16,7 +16,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
   <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>
 </p>
 
-### ⚙️ Backend & Lenguajes
+<h3 align="center">⚙️ Backend & Lenguajes</h3>
 <p align="center">
   <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" height="45" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node" height="40" /></a>
@@ -24,14 +24,14 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
   <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>
 </p>
 
-### 🗄️ Base de Datos & Cloud
+<h3 align="center">🗄️ Base de Datos & Cloud</h3>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" /></a>
 </p>
 
-### 🛠️ Herramientas & CMS
+<h3 align="center">🛠️ Herramientas & CMS</h3>
 <p align="center">
   <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" /></a>
   <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WP" height="45" /></a>
