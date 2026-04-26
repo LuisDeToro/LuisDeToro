@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=32&duration=3000&pause=500&color=#E5B956&width=500&lines=%C2%A1Hola%2C+soy+Luis+De+Toro!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=32&duration=3000&pause=500&color=E5B956&width=500&lines=%C2%A1Hola%2C+soy+Luis+De+Toro!)](https://git.io/typing-svg)
 
 Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de Córdoba.
 
