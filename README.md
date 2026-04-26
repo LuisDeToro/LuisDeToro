@@ -4,6 +4,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 
 <br>
 <br>
+
 # <p align="center">Tecnologías y herramientas que he usado</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=28&duration=1&pause=1&color=FF4D00&repeat=false&width=435&lines=%F0%9F%8E%A8+Frontend)](https://git.io/typing-svg)
