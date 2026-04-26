@@ -5,7 +5,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 
 # <p align="center">Tecnologías y herramientas que he usado</p>
 
-<h2 align="center" style="margin-top: 15px; border: none; box-shadow: none;">🎨 Frontend</h2>
+<p align="center" style="margin-top: 25px; font-size: 1.5em; font-weight: bold;">🎨 Frontend</p>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>
@@ -14,19 +14,19 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
   <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>
 </p>
 
-<h2 align="center" style="margin-top: 15px; border: none; box-shadow: none;">⚙️ Backend</h2>
+<p align="center" style="margin-top: 25px; font-size: 1.5em; font-weight: bold;">⚙️ Backend</p>
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a><a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="45" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40" width="40"/></a>
 </p>
 
-<h2 align="center" style="margin-top: 15px; border: none; box-shadow: none;">⛃ Base de Datos & Cloud</h2>
+<p align="center" style="margin-top: 25px; font-size: 1.5em; font-weight: bold;">⛃ Base de Datos & Cloud</p>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" /></a>
 </p>
 
-<h2 align="center" style="margin-top: 15px; border: none; box-shadow: none;">🛠️ Herramientas & CMS</h2>
+<p align="center" style="margin-top: 25px; font-size: 1.5em; font-weight: bold;">🛠️ Herramientas & CMS</p>
 <p align="center">
   <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WP" height="45" /></a>
   <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" /></a>
