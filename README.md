@@ -3,7 +3,7 @@
 Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de Córdoba.
 
 
-# <p align="center">🚀 Tecnologías y herramientas que he usado</p>
+# <p align="center">Tecnologías y herramientas que he usado</p>
 
 <h2 align="center" style="margin-top: 15px;">🎨 Frontend</h2>
 <p align="center">
