@@ -3,11 +3,9 @@
 Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de Córdoba.
 
 
+# <p align="center">🚀 Tecnologías y herramientas que he usado</p>
 
-
-# Mis Tecnologías y Herramientas 🚀
-
-<h2 align="center">🎨 Frontend</h2>
+<h2 align="center" style="margin-top: 15px;">🎨 Frontend</h2>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>
@@ -16,27 +14,24 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
   <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>
 </p>
 
-<h2 align="center">⚙️ Backend</h2>
+<h2 align="center" style="margin-top: 15px;">⚙️ Backend</h2>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="45" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a><a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="45" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40" width="40"/></a>
 </p>
 
-<h2 align="center">⛃ Base de Datos & Cloud</h2>
+<h2 align="center" style="margin-top: 15px;">⛃ Base de Datos & Cloud</h2>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" /></a>
 </p>
 
-<h2 align="center">🛠️ Herramientas & CMS</h2>
+<h2 align="center" style="margin-top: 15px;">🛠️ Herramientas & CMS</h2>
 <p align="center">
   <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WP" height="45" /></a>
   <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" /></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="40" alt="vscode logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="40" /></a>
 </p>
-
 
 
 
