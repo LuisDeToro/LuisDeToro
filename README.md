@@ -27,7 +27,8 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=21759B&center=true&vCenter=true&width=550&lines=🛠️+Herramientas+%26+CMS" alt="Tools" />
+  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b38ed823-0d0b-4a1b-8f1a-6f2860d5b46b" />
+?font=Fira+Code&weight=700&size=40&pause=1000&color=21759B&center=true&vCenter=true&width=550&lines=🛠️+Herramientas+%26+CMS" alt="Tools" />
 </p>
 <p align="center">
   <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WP" height="45" /></a>
