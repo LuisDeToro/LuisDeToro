@@ -49,7 +49,7 @@ Actualmente estudiante de Desarrollo de aplicaciones web en IES Gran Capitán de
 <br>
 
 
-# <p align="center">📫 Puedes contactarme en</p>
+# <h2 align="center">📫 Puedes contactarme en</h2>
 <div align="center">
   <a href="mailto:luisdtp.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
