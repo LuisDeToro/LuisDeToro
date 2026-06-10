@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=32&duration=3000&pause=500&color=E5B956&width=500&lines=%C2%A1Hola%2C+soy+Luis+De+Toro!)](https://git.io/typing-svg)
 
-👨🏻‍💻 Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
-👨🏻‍💻 Web Developer.
+👨🏻‍💻 Técnico Superior en Desarrollo de Aplicaciones Web (DAW) / Web Developer.
 
 <br>
 <br>
